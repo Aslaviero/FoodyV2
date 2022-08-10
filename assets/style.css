@@ -1,0 +1,18 @@
+#foodpics image {
+    justify-content: center;
+}
+
+.image is-128x128 {
+    justify-content: center;
+}
+/* tried to use different selectors to see if that was the problem. */
+
+#foodtitle {
+ 
+
+}
+
+#instructions{
+
+}
+
