@@ -1,5 +1,5 @@
 //global variables
-var spoonAPI = '51070bf02459445cb28205ccc4e24c4c'
+var spoonAPI = '8023625cbc5c4ebab5d9ae2ca436c472'
 var totalData = [];
 let recipeDiv = document.getElementById("recipe-div");
 
